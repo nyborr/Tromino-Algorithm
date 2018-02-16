@@ -1,0 +1,8 @@
+﻿  TrominoMainRYates.cpp
+TrominoMainRYates.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  tromino.cpp
+  Generating code
+  All 39 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tromino_Yates.vcxproj -> D:\School\Algorithms\Tromino_Yates\Release\Tromino_Yates.exe
+  Tromino_Yates.vcxproj -> D:\School\Algorithms\Tromino_Yates\Release\Tromino_Yates.pdb (Full PDB)
